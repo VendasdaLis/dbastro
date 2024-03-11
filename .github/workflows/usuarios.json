@@ -1,7 +1,7 @@
 [
     {"usuario": "lucas", "hash": "e163b1a6e09e53f9fc550a851bab3cfd", "validade": "01/01/2025/00:00", "hwid": "03000200-0400-0500-0006-000700080009"},
     {"usuario": "danzeira", "hash": "da00f115dbb9a3c456b6bb1d36be5c05", "validade": "1/01/2025/00:00", "hwid": "DE1E6C80-D06A-11ED-B79B-A1A14EB51300"},
-    {"usuario": "teste", "hash": "9d39548b50d6bac9a5e6e1dafcc79517", "validade": "10/03/2024/21:45", "hwid": "03000200-0400-0500-0006-000700080009"},
+    {"usuario": "teste", "hash": "9d39548b50d6bac9a5e6e1dafcc79517", "validade": "10/03/2024/21:59", "hwid": "03000200-0400-0500-0006-000700080009"},
     {"usuario": "flavinho", "hash": "4b568cac4654597869b995ee83ce91de", "validade": "05/03/2024", "hwid": "A73BAB00-7BB3-11EB-BFD9-C33E89F75200"},
     {"usuario": "vitinho", "hash": "dbab59d46f86b998e3ff605c2063be51", "validade": "1/01/2025/00:00", "hwid": "58A98FEC-768E-11EE-8AB1-39A5E15FAD01"}
 ]
